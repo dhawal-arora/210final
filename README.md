@@ -1,6 +1,6 @@
 # 210final
 
-# Chess Game Data Analysis
+# Chess Match Winning Chances Predictor and Skill Assessment
 
 This project processes and analyzes your chess game data from Chess.com and Lichess.org using Python.
 
