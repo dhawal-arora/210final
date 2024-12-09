@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Connect to your MySQL database using SQLAlchemy
-db_engine = create_engine("mysql+pymysql://root:210final@localhost/chess_ratings")
+db_engine = create_engine("mysql+pymysql://root:xyz@localhost/chess_ratings")
 
 # Load the chess_games table into a pandas DataFrame
 query = "SELECT * FROM chess_games"

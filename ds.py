@@ -6,7 +6,7 @@ import datetime
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': '210final',
+    'password': 'xyz',
     'database': 'chess_ratings'
 }
 

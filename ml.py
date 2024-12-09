@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report, accuracy_score
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': '210final',
+    'password': 'xyz',
     'database': 'chess_ratings'
 }
 
