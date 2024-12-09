@@ -19,3 +19,5 @@ This project processes and analyzes your chess game data from Chess.com and Lich
 - Replace SQL credentials in the scripts as needed.
 - Ensure all scripts are in the same folder before running.
 - Execute requirements.txt with pip install -r requirements.txt
+
+# Video: https://drive.google.com/file/d/10kKWNz5wk1NJS9mPcIGKRkMT40SYrLyk/view?usp=sharing
